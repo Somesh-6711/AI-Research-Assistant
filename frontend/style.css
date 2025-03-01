@@ -1,0 +1,33 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #1E1E1E;
+    color: #FFFFFF;
+}
+
+.paper-card {
+    background-color: #2A2A2A;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 10px rgba(255, 255, 255, 0.1);
+}
+
+.paper-card h4 {
+    color: #FFA500;
+}
+
+.read-more {
+    color: #00BFFF;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+button {
+    background-color: #FFA500;
+    border: none;
+    color: white;
+    padding: 8px 12px;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+}
