@@ -61,10 +61,10 @@ streamlit run frontend/app.py
 
 ## 📷 Screenshots
 #### **Paper Search & Categorization**
-![Search & Categorization](screenshots/search_papers.png)
+![Search & Categorization](Screenshots/search_papers.png)
 
 #### **AI-Powered Summarization**
-![Summarization](screenshots/summarization.png)
+![Summarization](Screenshots/summarization.png)
 
 
 ---
